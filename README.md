@@ -11,6 +11,13 @@ A modern, cross-platform video player that demonstrates the power of Kotlin Mult
 - 🏗️ **Clean Architecture**: Expect/Actual pattern for platform abstraction
 - 🚀 **Modern Stack**: Kotlin Multiplatform, Jetpack Compose, SwiftUI
 
+## Demo Android 
+[![Watch the demo](https://img.youtube.com/vi/nOPjpfRK6i8/maxresdefault.jpg)](https://youtube.com/shorts/nOPjpfRK6i8?si=eAHrfVXM553Se74M)
+
+## Demo IOS 
+[![Watch the demo](https://img.youtube.com/vi/RtixzMyYzQs/maxresdefault.jpg)](https://youtube.com/shorts/RtixzMyYzQ)
+
+
 ## 🛠️ Tech Stack
 
 ### Shared (Kotlin Multiplatform)
