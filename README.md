@@ -15,7 +15,7 @@ A modern, cross-platform video player that demonstrates the power of Kotlin Mult
 [![Watch the demo](https://img.youtube.com/vi/nOPjpfRK6i8/maxresdefault.jpg)](https://youtube.com/shorts/nOPjpfRK6i8?si=eAHrfVXM553Se74M)
 
 ## Demo IOS 
-[![Watch the demo](https://img.youtube.com/vi/RtixzMyYzQs/maxresdefault.jpg)](https://youtube.com/shorts/RtixzMyYzQ)
+[![Watch the demo](https://img.youtube.com/vi/RtixzMyYzQs/maxresdefault.jpg)](https://youtube.com/shorts/RtixzMyYzQs)
 
 
 ## 🛠️ Tech Stack
