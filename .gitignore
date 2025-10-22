@@ -31,6 +31,7 @@ replay_pid*
 /.idea/.name
 /.gradle/configuration-cache/4a136e3b-c95c-46c6-9871-d5a37a360858/.strings.work.bin
 /.gradle/configuration-cache/7404066f-6676-4a99-bc76-de3de7c96226/.strings.work.bin
+/composeApp/build/
 /composeApp/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0BQFFHbqBqMlgNlSQt1oKMEEQHY=
 /composeApp/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0LqG0PijDLXHI11y5_s6d9cwR_U=
 /composeApp/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/0Pw9ukTLRiSIYW4CdsQi2JVkW6o=
@@ -241,3 +242,11 @@ replay_pid*
 /composeApp/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/yfAK8JWz1DW9nI_+mdSi8ogcK28=
 composeApp/build/
 shared/build/
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/.globals.work.bin
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/.strings.work.bin
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/_shared.work.bin
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/buildfingerprint.bin
+/build/reports/configuration-cache/8qhtrgbmp65if1rjmaqzji708/2molt3ex5w7mpqu8wzgmntds3/configuration-cache-report.html
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/entry.bin
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/projectfingerprint.bin
+/.gradle/configuration-cache/75339bc2-a256-405f-b20d-690a9cef50ff/work.bin
