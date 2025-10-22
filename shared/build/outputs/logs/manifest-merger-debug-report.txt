@@ -1,0 +1,16 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml:2:13-83
+INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml:2:13-83
+	package
+		INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml
+	xmlns:android
+		ADDED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml:2:23-81
+uses-sdk
+INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml reason: use-sdk injection requested
+INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml
+INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml
+	android:targetSdkVersion
+		INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml
+	android:minSdkVersion
+		INJECTED from /Users/vigneshprabhu/Development/vpdevs/portfolio_apps/StreamKMP/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest11294075873917501981.xml
